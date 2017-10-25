@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.0.0-alpha1_0556f8832632d08dba5fd9a179545ebf062a435a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-26.0.0-alpha1_28b6d29f4aea52d72e8c3acc63afb1a792f68018/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/opt/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_d63ebb8b2ffebdb2bbe84611b4a1cf4e37727195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.0.0-alpha1_4aaad2904d790d719d4c747a8e8187ce1b6d0230/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.0.0-alpha1_5e85589fd3be2970b43c10863ed15b345a0b21cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-26.0.0-alpha1_9378d1b48d83d0cbb572d4e6b2ab5df73292af44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25f99c81c6a4cecc4351082935ec0eaef6b221c0">
+        <dex dex="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_14ffa6b9b1730f8c6a121afbaabda6b5f8e57ab1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.0.0-alpha1_078d18dc33c598c2f27869526e99534699453882/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.0.0-alpha1_070e7fddfe0410d70fcaeeb417ce264a94d48280/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5446e551df8dcdfd92c0886cdac27705eb380b8e">
+        <dex dex="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8a0a13af1fca4dce73d6d7e9a9b05a43332d309e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.0.0-alpha1_f0b26e25f71da2d82775ff0613613836651336b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/clement/Documents/CESI/Android/CesiActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.0.0-alpha1_94f0745f5e0e377a421a7955427c3d1153566e09/classes.dex" />
+    </item>
+
+</items>
